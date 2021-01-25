@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\jacqu\GitHub\TrippleX\TrippleX\TrippleX\TrippleX\main.cpp(59,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TrippleX.vcxproj -> D:\jacqu\GitHub\TrippleX\TrippleX\TrippleX\x64\Debug\TrippleX.exe
